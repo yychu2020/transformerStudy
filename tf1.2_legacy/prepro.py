@@ -5,7 +5,7 @@ June 2017 by kyubyong park.
 kbpark.linguist@gmail.com.
 https://www.github.com/kyubyong/transformer
 '''
-#ryc
+#ryc20251115
 from __future__ import print_function
 from hyperparams import Hyperparams as hp
 import tensorflow as tf
